@@ -16,10 +16,4 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/BWalrus/VisibilityPlugin/archive/refs/tags/test.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/BWalrus/VisibilityPlugin/archive/refs/tags/test.zip",
-        "DownloadLinkUpdate": "https://github.com/BWalrus/VisibilityPlugin/archive/refs/tags/test.zip",
-        "LastUpdate": "1745885672"
     },
