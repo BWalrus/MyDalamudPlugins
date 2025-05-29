@@ -1,0 +1,20 @@
+[
+  {
+    Author: 'Zeb',
+    Name: 'Visibility revised',
+    Description: 'Visibility plugin but applies to duties',
+    InternalName: 'VisibilityZeb',
+    AssemblyVersion: '1.0.0.0',
+    TestingAssemblyVersion: null,
+    RepoUrl: 'https://github.com/BWalrus/VisibilityPlugin',
+    ApplicableVersion: 'any',
+    DalamudApiLevel: 10,
+    Punchline: 'A short blurb about what this plugin is.',
+    IsHide: false,
+    IsTestingExclusive: false,
+    DownloadLinkInstall: 'https://github.com/BWalrus/VisibilityPlugin/archive/refs/tags/test.zip',
+    DownloadLinkTesting: 'https://github.com/BWalrus/VisibilityPlugin/archive/refs/tags/test.zip',
+    DownloadLinkUpdate: 'https://github.com/BWalrus/VisibilityPlugin/archive/refs/tags/test.zip',
+    LastUpdate: '1701231234',
+  },
+]
